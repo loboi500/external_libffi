@@ -1,11 +1,3 @@
-prefix=@prefix@
-exec_prefix=@exec_prefix@
-libdir=@libdir@
-toolexeclibdir=@toolexeclibdir@
-includedir=@includedir@
-
-Name: @PACKAGE_NAME@
-Description: Library supporting Foreign Function Interfaces
-Version: @PACKAGE_VERSION@
-Libs: -L${toolexeclibdir} -lffi
-Cflags: -I${includedir}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0828aa34e7d8bf5c8007e897ce12459912e7ee491e1c17377432c8bf204704be
+size 279

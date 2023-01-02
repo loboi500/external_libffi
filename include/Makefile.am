@@ -1,9 +1,3 @@
-## Process this with automake to create Makefile.in
-
-AUTOMAKE_OPTIONS=foreign
-
-DISTCLEANFILES=ffitarget.h
-noinst_HEADERS=ffi_common.h ffi_cfi.h
-EXTRA_DIST=ffi.h.in
-
-nodist_include_HEADERS = ffi.h ffitarget.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:43763a7deb601012459ba66e354160656c6b8659e2282b84d4239555a11e92bd
+size 208

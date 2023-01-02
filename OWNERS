@@ -1,1 +1,3 @@
-include platform/system/core:/janitors/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a956399e1ed1f7b7cd77d8312e19bb9a8d8dc39d77651894b67e1659073acc
+size 46
